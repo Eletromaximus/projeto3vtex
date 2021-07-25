@@ -41,6 +41,8 @@
   height: 100%;
   width: 50%;
   background-color: #61dafb;
+
+  justify-content: center;
 }
 
 form {
@@ -49,17 +51,17 @@ form {
   border: solid 1px;
   border-radius: 20px;
   margin-top: 60px;
-
-  align-items: flex-end;
 }
 
-.Cadastro-pessoas {
+.Cadastro-pessoas,
+.Cadastro-produtos {
   display: flex;
   flex-direction: column;
   margin-top: 20px;
 }
 
-.Cadastro-pessoas label {
+.Cadastro-pessoas label,
+.Cadastro-produtos label {
   margin-top: 10px;
 }
 

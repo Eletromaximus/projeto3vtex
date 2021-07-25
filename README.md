@@ -12,11 +12,14 @@ que autêntica as entradas de uma maneira mais simplificada
 ### Formulário
 
 Dois formulários foram desenvolvidos na mesma página
-[frontal](https://github.com/Eletromaximus/projeto3vtex/blob/main/frontal.png)
+
+
+![frontal](https://github.com/Eletromaximus/projeto3vtex/blob/main/frontal.png)
 
 Após preenche-los é possivel, ao acessar o navegador e ir até Application. Ao se
 dirigir para a seção localstorage, é possivel notar duas chaves guardadas: pessoas
 e produtos, como na imagem a baixo
 
-[chaves](https://github.com/Eletromaximus/projeto3vtex/blob/main/chaves.png)
+
+![chaves](https://github.com/Eletromaximus/projeto3vtex/blob/main/chaves.png)
 
